@@ -1,0 +1,275 @@
+* {
+  box-sizing: border-box;
+}
+img.techcrunch{
+  float: left;
+  padding-right: 25px;
+}
+img.news{
+  width: 29%;
+  height: 60px;
+}
+img.predict{
+  width: 25%;
+}
+img.insta{
+  width: 25%;
+  height: 65px;
+}
+img.trumpy{
+  height: 61px;
+  width: 25%;
+}
+.list1{
+  float: left;
+  background-color:;
+  padding-top: 50px
+}
+h1{
+  width: 57%;
+}
+h4{
+  color: green;
+  padding-top: 45px;
+
+
+}
+span{
+  color: grey;
+  padding-top: px;
+}
+h5{
+  float: left;
+
+}
+section.section1{
+  vertical-align: middle;
+
+}
+header{
+
+}
+section.list1{
+  margin-bottom: px;
+}
+ nav{
+  background-color: darkgreen;
+  font-size: 13px;
+  display: flex;
+  clear:both;
+}
+.getyourticketstoday{
+  color: white;
+}
+.crunchies{
+  color: white;
+}
+section.headersection{
+  padding-top: 100px
+}
+img.video{
+  width: 42em;
+  clear: both;
+}
+input{
+  float: right;
+}
+li{
+  float: right;
+}
+section.watch{
+  background-color: ;
+  margin-right: 62em
+}
+p.daily{
+  margin-right: 100em;
+  background-color: ;
+  font-size: 18px;
+  clear: both;
+  width: 100%;
+}
+.head{
+  width: 100%;
+  background-color: green;
+}
+section.cliffweek{
+  width: 74%;
+}
+.sectionOne{
+  width: 41%;
+  float: left;
+}
+.middle{
+  width: 35%;
+  float: left;
+}
+.secondHalf{
+  height: 540px;
+}
+.columnOne,.columnTwo,.columnThree,.columnFour{
+  height: 100px;
+  padding-top: 7%;
+}
+.columnOne{
+  width:77.5%;
+}
+.columnTwo{
+  width:77.5%;
+}
+.columnThree{
+  width:77.5%;
+}
+.columnFour{
+  width:77.5%;
+}
+.controlOne,.controlTwo,.controlThree,.controlFour{
+  width: 85%;
+height: 95px;
+}
+@media (max-width: 900px){
+  * {
+    box-sizing: border-box;
+  }
+  img.techcrunch{
+    float: left;
+    padding-right: 25px;
+    width: 40%;
+  }
+  img.news{
+    width: 90%;
+    height: 60px;
+  }
+  img.predict{
+    width: 90%;
+    height: 76px
+  }
+  img.insta{
+    width: 90%;
+    height: 44px;
+  }
+  img.trumpy{
+    height: 61px;
+    width: 90%;
+  }
+  .list1{
+    float: left;
+    background-color:;
+    padding-top: 50px
+  }
+  h1{
+    width: 57%;
+  }
+  h4{
+    color: green;
+    padding-top: 45px;
+  }
+  li{
+    display:none;
+  }
+  span{
+    color: grey;
+    padding-top: px;
+  }
+  h5{
+    float: left;
+
+  }
+  section.section1{
+    vertical-align: middle;
+
+  }
+  header{
+
+  }
+  section.list1{
+    margin-bottom: px;
+  }
+   nav{
+    background-color: darkgreen;
+    font-size: 10px;
+    display: flex;
+    clear:both;
+  }
+  .audit{
+    display: none;
+  }
+  .getyourticketstoday{
+    color: white;
+  }
+  h5, form{
+    display:none;
+  }
+  .crunchies{
+    color: white;
+  }
+  section.headersection{
+    padding-top: 100px
+  }
+  img.video{
+    width: 30em;
+    clear: both;
+  }
+  input{
+    float: right;
+  }
+  li{
+    float: right;
+  }
+  section.watch{
+    background-color: ;
+    margin-right: 62em
+  }
+  p.daily{
+    margin-right: 100em;
+    background-color: ;
+    font-size: 18px;
+    clear: both;
+    width: 100%;
+    display: none;
+  }
+  .head{
+    width: 100%;
+    background-color: green;
+  }
+  section.cliffweek{
+    width: 74%;
+  }
+  .sectionOne{
+    width: 41%;
+    float: left;
+  }
+  .middle{
+    width: 35%;
+    margin-top: -5%;
+    margin-right: 25%;
+  }
+  .controlOne,.controlTwo,.controlThree,.controlFour,.news,.yesNo{
+    display:none;
+  }
+  .secondHalf{
+    height: 540px;
+  }
+  .columnOne,.columnTwo,.columnThree,.columnFour{
+    height: 100px;
+    padding-top: 7%;
+  }
+  .columnOne{
+    width:77.5%;
+  }
+  .columnTwo{
+    width:77.5%;
+  }
+  .columnThree{
+    width:77.5%;
+  }
+  .columnFour{
+    width:77.5%;
+  }
+  .controlOne,.controlTwo,.controlThree,.controlFour{
+    width: 85%;
+  height: 95px;
+  }
+}
+@media (min-width: 901px){
+
+}
